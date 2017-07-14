@@ -10,9 +10,9 @@ public class Actor {
 	
 	public Actor(){
 		hitPoints = 0;
-		maxHitPoints = 0;
+		maxHitPoints = 100;
 		strength = 0;
-		maxStrength = 0;
+		maxStrength = 100;
 		potions = 0;
 		gold = 0;
 		name = "";
