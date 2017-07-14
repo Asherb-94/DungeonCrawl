@@ -1,4 +1,5 @@
 public class Scene00 {
+	// temporary hero created
 	public static Actor hero = new Actor();
 
 	public static void main(String[] args) {
